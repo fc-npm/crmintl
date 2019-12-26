@@ -10,7 +10,7 @@
   "description": "crmintl",
   "license": "ISC",
   "main": "index.js",
-  "name": "crmintl",
+  "name": "forceclouds-crmintl",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
