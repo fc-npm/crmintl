@@ -1,0 +1,18 @@
+{
+  "author": {
+    "name": "crm"
+  },
+  "bundleDependencies": false,
+  "dependencies": {
+    "lodash": "^4.17.11"
+  },
+  "deprecated": false,
+  "description": "crmintl",
+  "license": "ISC",
+  "main": "index.js",
+  "name": "crmintl",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "version": "1.0.5"
+}
